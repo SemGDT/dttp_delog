@@ -1,7 +1,7 @@
 # dttp Tool to build a timeline summary of user-defined events from a big txt file
 ## Overview
-It happens so often that SW developers are provided with a massive log. It's so big that the developer doesn't have a good view of the timeline of the events of his/her interest.
-Unfortuately, this free software tool is a game changer since it allows the developers to define their own key events that they want to look for and apply it to any text log file
+It happens so often that SW developers are provided with a massive log, so big that the developer doesn't have a good view of the timeline of the events of their interest.
+Fortunately, this free software tool is a game changer since it allows the developers to define their own key events that they want to look for from any text log type
 to build a much smaller log file that only shows their key events chronologically.
 ## Usage instruction
 ### Pre-requisite
