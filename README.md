@@ -9,7 +9,8 @@ Python3 is installed in the system where dttp_delog.py resides
 ### Steps
 #### Craft the dttp_delog_tp.json based on the need
 Key events are to be defined/adjusted in the dttp_delog_tp.json according to the following example:
-```{
+```
+{
   "<descriptive key>" : ["<matching keywords in the log>", "<how many lines to be extracted before the matching line>", "<how many lines to be extracted after the matching line>"]  
   "sunrise" : ["The rooster wakes up", "0", "0"],
   "sunset" : ["The bridge is closed", "0", "0"],
